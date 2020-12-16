@@ -17,7 +17,7 @@ The platforms, ladders and gems are randomly generated every time the board is i
 #### Movement
 The cat can move right and left when it is on a platform. On the ladders it can move up and down. There is gravity in the game so the cat falls off the edge of the platform and it can move left and right in the air as it is falling.
 
-#### Installation
+### Installation
 Executing our game requires the installation of the Pygame library in Python. Install Python [here](https://www.python.org/downloads/) and Pygame [here](https://www.pygame.org/wiki/GettingStarted).
 After downloading the files from the Catosphere repository, navigate to the catosphere folder and run the following code in your command line:
 ```bash
@@ -26,5 +26,22 @@ python main.py
 
 ### Creators
 
-The creators of the this game are Serena Chang, Simurn Mutha, and Melody Chiu
-[maybe have our pictures] accompanied short bio with school, major, favorite type of cat
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table>
+
+#### Resources
