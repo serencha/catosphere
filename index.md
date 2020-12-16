@@ -32,14 +32,14 @@ python main.py
 <a href="http://www.linkedin.com/in/serenachang1">Serena Chang</a>\
 Babson College 2023\
 Business Administration\
-</br>
-<a href="http://www.linkedin.com/in/melody-chiu-6297b41a2">Melody Chiu</a></br>
-Olin College of Engineering 2023</br>
-Engineering with Computing</br>
-</br>
-<a href="https://www.linkedin.com/in/simrun-mutha-78b8761a0/">Simrun Mutha</a></br>
-Olin College of Engineering 2023</br>
-Electrical and Computer Engineer</br>
+
+<a href="http://www.linkedin.com/in/melody-chiu-6297b41a2">Melody Chiu</a>\
+Olin College of Engineering 2023\
+Engineering with Computing\
+
+<a href="https://www.linkedin.com/in/simrun-mutha-78b8761a0/">Simrun Mutha</a>\
+Olin College of Engineering 2023\
+Electrical and Computer Engineer\
 
 #### Resources
 Resources for this game include Erylith’s implementation of the Donkey Kong game made available on their <a href="https://github.com/erilyth/DonkeyKong-Pygame">Github</a>.
