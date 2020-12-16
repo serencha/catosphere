@@ -1,5 +1,3 @@
-## Into the Catosphere
-
 “Into the Catosphere” is a game where you follow a cat’s journey to space by helping the cat collect stars and navigate in the right direction. It is a platform game where you can interact with the gameboard and move in four directions.
 
 <img src="startscreen.png" width="500" />
