@@ -40,4 +40,4 @@ Olin College of Engineering 2023</br>
 Electrical and Computer Engineer</br>
 
 #### Resources
-Resources for this game include Erylith’s implementation of the Donkey Kong game made available on their <a href="https://github.com/erilyth/DonkeyKong-Pygame" GitHub></a>.
+Resources for this game include Erylith’s implementation of the Donkey Kong game made available on their <a href="https://github.com/erilyth/DonkeyKong-Pygame">Github</a>.
