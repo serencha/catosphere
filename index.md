@@ -29,7 +29,7 @@ python main.py
 ### Creators
 
 <img src="1600113910952.jpg" width="100"/>
-<a href="https://www.linkedin.com/in/serenachang1/">Serena Chang</a></br>
+[Serena Chang](https://www.linkedin.com/in/serenachang1/)
 Babson College 2023 </br>
 Business Administration</br>
 </br>
