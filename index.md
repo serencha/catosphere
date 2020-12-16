@@ -29,17 +29,16 @@ python main.py
 <img src="1600113910952.jpg" width="100" />
 <a href="https://www.linkedin.com/in/serenachang1/">Serena Chang</a>
 
-Babson College
-
+Babson College 2023
 Business Administration
 
 
 Melody Chiu
-Olin College of Engineering
+Olin College of Engineering 2023
 Engineering with Computing
 
-Simrun Mutha</td>
-Olin College of Engineering
+Simrun Mutha
+Olin College of Engineering 2023
 Electrical and Computer Engineer
 
 #### Resources
