@@ -1,3 +1,5 @@
 title: Into the Catosphere
 
 theme: jekyll-theme-minimal
+link-col: "#FFFFFF"
+hover-col: "#FFFFFF"
