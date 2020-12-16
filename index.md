@@ -11,6 +11,8 @@ This game consists of a series of platforms and ladders with stars along the pla
 
 Our game features several menu pages which includes a character selection menu where the player can choose which cat they would like to use as their avatar. Other menus are the game lobby where the user can choose to start playing or exit the game and the exit screen where the user can choose to replay the game.
 
+<img src="pickyourcat.png" width="500" />
+
 #### Gameboard
 The platforms, ladders and gems are randomly generated every time the board is initialized or updated. This makes the game a novel experience every time you play it. Every board is checked to make sure there is at least one pathway to the top of the screen.
 
