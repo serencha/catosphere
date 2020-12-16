@@ -34,7 +34,7 @@ python main.py
     <th>Favorite Cat</th>
   </tr>
   <tr>
-    <td>[Serena Chang](https://www.linkedin.com/in/serenachang1/)</td>
+    <td><a href="https://www.linkedin.com/in/serenachang1/">Serena Chang</a></td>
     <td>Babson College</td>
     <td>Business Administration</td>
     <td>cat</td>
