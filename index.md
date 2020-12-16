@@ -28,19 +28,28 @@ python main.py
 
 <table style="width:100%">
   <tr>
+    <th>Name</th>
+    <th>School</th>
+    <th>Major</th>
+    <th>Favorite Cat</th>
+  </tr>
+  <tr>
     <td>Serena Chang</td>
     <td>Babson College</td>
     <td>Business Administration</td>
+    <td>cat</td>
   </tr>
   <tr>
     <td>Melody Chiu</td>
     <td>Olin College of Engineering</td>
     <td>Engineering with Computing</td>
+    <td>cat</td>
   </tr>
   <tr>
     <td>Simrun Mutha</td>
     <td>Olin College of Engineering</td>
     <td>Electrical and Computer Engineer</td>
+    <td>cat</td>
   </tr>
 </table>
 
