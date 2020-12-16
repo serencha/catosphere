@@ -23,6 +23,7 @@ After downloading the files from the Catosphere repository, navigate to the cato
 ```bash
 python main.py
 ```
+More details can be found at the [Github repository](https://github.com/melodch/interactivegame).
 
 ### Creators
 
