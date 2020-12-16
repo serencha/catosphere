@@ -26,32 +26,17 @@ python main.py
 
 ### Creators
 
-<table style="width:100%">
-  <tr>
-    <th>Name</th>
-    <th>School</th>
-    <th>Major</th>
-    <th>Favorite Cat</th>
-  </tr>
-  <tr>
-    <td><img src="1600113910952.jpg" width="40" /><a href="https://www.linkedin.com/in/serenachang1/">Serena Chang</a></td>
-    <td>Babson College</td>
-    <td>Business Administration</td>
-    <td>cat</td>
-  </tr>
-  <tr>
-    <td>Melody Chiu</td>
-    <td>Olin College of Engineering</td>
-    <td>Engineering with Computing</td>
-    <td>cat</td>
-  </tr>
-  <tr>
-    <td>Simrun Mutha</td>
-    <td>Olin College of Engineering</td>
-    <td>Electrical and Computer Engineer</td>
-    <td>cat</td>
-    
-  </tr>
-</table>
+<img src="1600113910952.jpg" width="100" />
+<a href="https://www.linkedin.com/in/serenachang1/">Serena Chang</a>
+Babson College
+Business Administration
+
+Melody Chiu
+Olin College of Engineering
+Engineering with Computing
+
+Simrun Mutha</td>
+Olin College of Engineering
+Electrical and Computer Engineer
 
 #### Resources
