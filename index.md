@@ -34,7 +34,7 @@ python main.py
     <th>Favorite Cat</th>
   </tr>
   <tr>
-    <td><a href="https://www.linkedin.com/in/serenachang1/">Serena Chang</a></td>
+    <td><img src="1600113910952.jpg" /><a href="https://www.linkedin.com/in/serenachang1/">Serena Chang</a></td>
     <td>Babson College</td>
     <td>Business Administration</td>
     <td>cat</td>
