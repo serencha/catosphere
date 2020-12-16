@@ -26,17 +26,18 @@ python main.py
 
 ### Creators
 
-<img src="1600113910952.jpg" width="100" />
+<img src="1600113910952.jpg" width="100"/>
 <a href="https://www.linkedin.com/in/serenachang1/">Serena Chang</a>  </br>
 Babson College 2023 </br>
-Business Administration  </br>  
-
+Business Administration</br>
+</br>
 Melody Chiu</br>
 Olin College of Engineering 2023</br>
 Engineering with Computing</br>
-
-Simrun Mutha
-Olin College of Engineering 2023
-Electrical and Computer Engineer
+</br>
+Simrun Mutha</br>
+Olin College of Engineering 2023</br>
+Electrical and Computer Engineer</br>
 
 #### Resources
+Resources for this game include Erylith’s implementation of the Donkey Kong game made available on their <a href="https://github.com/erilyth/DonkeyKong-Pygame" GitHub></a>.
