@@ -30,6 +30,7 @@ python main.py
 <a href="https://www.linkedin.com/in/serenachang1/">Serena Chang</a>
 
 Babson College
+
 Business Administration
 
 
