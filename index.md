@@ -27,15 +27,15 @@ python main.py
 ### Creators
 
 <img src="1600113910952.jpg" width="100"/>
-<a href="https://www.linkedin.com/in/serenachang1/">Serena Chang</a>  </br>
+<a href="https://www.linkedin.com/in/serenachang1/">Serena Chang</a></br>
 Babson College 2023 </br>
 Business Administration</br>
 </br>
-Melody Chiu</br>
+<a href="http://www.linkedin.com/in/melody-chiu-6297b41a2">Melody Chiu</a></br>
 Olin College of Engineering 2023</br>
 Engineering with Computing</br>
 </br>
-Simrun Mutha</br>
+<a href="https://www.linkedin.com/in/simrun-mutha-78b8761a0/">Simrun Mutha</a></br>
 Olin College of Engineering 2023</br>
 Electrical and Computer Engineer</br>
 
