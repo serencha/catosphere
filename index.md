@@ -28,10 +28,10 @@ python main.py
 
 ### Creators
 
-<img src="1600113910952.jpg" width="100"/>
-![Serena Chang](https://www.linkedin.com/in/serenachang1/)
-Babson College 2023 </br>
-Business Administration</br>
+<img src="1600113910952.jpg" width="100"/>\
+<a href="http://www.linkedin.com/in/serenachang1">Serena Chang</a>\
+Babson College 2023\
+Business Administration\
 </br>
 <a href="http://www.linkedin.com/in/melody-chiu-6297b41a2">Melody Chiu</a></br>
 Olin College of Engineering 2023</br>
