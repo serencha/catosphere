@@ -9,14 +9,20 @@ This game consists of a series of platforms and ladders with stars along the pla
 
 #### Menu
 
+Our game features several menu pages which includes a character selection menu where the player can choose which cat they would like to use as their avatar. Other menus are the game lobby where the user can choose to start playing or exit the game and the exit screen where the user can choose to replay the game.
+
 #### Gameboard
+The platforms, ladders and gems are randomly generated every time the board is initialized or updated. This makes the game a novel experience every time you play it. Every board is checked to make sure there is at least one pathway to the top of the screen.
 
+#### Movement
+The cat can move right and left when it is on a platform. On the ladders it can move up and down. There is gravity in the game so the cat falls off the edge of the platform and it can move left and right in the air as it is falling.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/schang127/catosphere.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Installation
+Executing our game requires the installation of the Pygame library in Python. Install Python [here](https://www.python.org/downloads/) and Pygame [here](https://www.pygame.org/wiki/GettingStarted).
+After downloading the files from the Catosphere repository, navigate to the catosphere folder and run the following code in your command line:
+```bash
+python main.py
+```
 
 ### Creators
 
