@@ -27,11 +27,9 @@ python main.py
 ### Creators
 
 <img src="1600113910952.jpg" width="100" />
-<a href="https://www.linkedin.com/in/serenachang1/">Serena Chang</a>
-
-Babson College 2023
-Business Administration
-
+<a href="https://www.linkedin.com/in/serenachang1/">Serena Chang</a>  
+Babson College 2023  
+Business Administration  
 
 Melody Chiu
 Olin College of Engineering 2023
