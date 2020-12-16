@@ -1,30 +1,15 @@
-## Welcome to GitHub Pages
+## Into the Catosphere
 
-You can use the [editor on GitHub](https://github.com/schang127/catosphere.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+“Into the Catosphere” is a game where you follow a cat’s journey to space by helping the cat collect stars and navigate in the right direction. It is a platform game where you can interact with the gameboard and move in four directions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Unique Features
 
-### Markdown
+This game consists of a series of platforms and ladders with stars along the platforms. The objective of the game is to collect the stars and move up the ladders to reach the top of the screen. The cat starts out with 9 lives and 0 points. Each star collected increases your score by 10 points. Additionally, there are fireballs falling from the top of the screen. If you collide with a fireball you lose a life and so the player has to avoid the fireballs as they are moving up the screen. When you reach the top of the screen the board updates so that you can keep going. The game ends when you lose all your lives and your final score is displayed.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Menu
 
-```markdown
-Syntax highlighted code block
+#### Gameboard
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -32,6 +17,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/schang127/catosphere.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Creators
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The creators of the this game are Serena Chang, Simurn Mutha, and Melody Chiu
+[maybe have our pictures] accompanied short bio with school, major, favorite type of cat
