@@ -28,7 +28,7 @@ python main.py
 
 <img src="1600113910952.jpg" width="100" />
 <a href="https://www.linkedin.com/in/serenachang1/">Serena Chang</a>  
-Babson College 2023  
+Babson College 2023  &nbsp;
 Business Administration  
 
 Melody Chiu
