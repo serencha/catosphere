@@ -29,7 +29,7 @@ python main.py
 <img src="1600113910952.jpg" width="100" />
 <a href="https://www.linkedin.com/in/serenachang1/">Serena Chang</a>  </br>
 Babson College 2023 </br>
-Business Administration  </br>
+Business Administration  </br>  
 
 Melody Chiu</br>
 Olin College of Engineering 2023</br>
