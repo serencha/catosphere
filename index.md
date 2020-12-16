@@ -28,18 +28,18 @@ python main.py
 
 ### Creators
 
-<img src="1600113910952.jpg" width="100"/>\
+<img src="1600113910952.jpg" width="150"/>\
 <a href="http://www.linkedin.com/in/serenachang1">Serena Chang</a>\
 Babson College 2023\
-Business Administration\
+Business Administration
 
 <a href="http://www.linkedin.com/in/melody-chiu-6297b41a2">Melody Chiu</a>\
 Olin College of Engineering 2023\
-Engineering with Computing\
+Engineering with Computing
 
 <a href="https://www.linkedin.com/in/simrun-mutha-78b8761a0/">Simrun Mutha</a>\
 Olin College of Engineering 2023\
-Electrical and Computer Engineer\
+Electrical and Computer Engineer
 
 #### Resources
 Resources for this game include Erylith’s implementation of the Donkey Kong game made available on their <a href="https://github.com/erilyth/DonkeyKong-Pygame">Github</a>.
