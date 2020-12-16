@@ -28,19 +28,19 @@ python main.py
 
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <td>Serena Chang</td>
+    <td>Babson College</td>
+    <td>Business Administration</td>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>Melody Chiu</td>
+    <td>Olin College of Engineering</td>
+    <td>Engineering with Computing</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>Simrun Mutha</td>
+    <td>Olin College of Engineering</td>
+    <td>Electrical and Computer Engineer</td>
   </tr>
 </table>
 
