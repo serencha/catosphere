@@ -33,8 +33,8 @@ python main.py
 Babson College 2023\
 Business Administration
 
-<img src="melody.png" width="150"/>
-<a href="http://www.linkedin.com/in/melody-chiu-6297b41a2">Melody Chiu</a>\
+<img src="photo_2020-12-16_14-51-17.jpg" width="150"/>
+<a href="http://www.linkedin.com/in/melody-chiu-6297b41a2">Melody Chiu</a>
 Olin College of Engineering 2023\
 Engineering with Computing
 
