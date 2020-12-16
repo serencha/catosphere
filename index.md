@@ -34,7 +34,7 @@ python main.py
     <th>Favorite Cat</th>
   </tr>
   <tr>
-    <td>Serena Chang</td>
+    <td>[Serena Chang](https://www.linkedin.com/in/serenachang1/)</td>
     <td>Babson College</td>
     <td>Business Administration</td>
     <td>cat</td>
@@ -50,6 +50,7 @@ python main.py
     <td>Olin College of Engineering</td>
     <td>Electrical and Computer Engineer</td>
     <td>cat</td>
+    
   </tr>
 </table>
 
