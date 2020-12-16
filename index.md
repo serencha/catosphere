@@ -27,13 +27,13 @@ python main.py
 ### Creators
 
 <img src="1600113910952.jpg" width="100" />
-<a href="https://www.linkedin.com/in/serenachang1/">Serena Chang</a>  
-Babson College 2023  &nbsp;
-Business Administration  
+<a href="https://www.linkedin.com/in/serenachang1/">Serena Chang</a>  </br>
+Babson College 2023 </br>
+Business Administration  </br>
 
-Melody Chiu
-Olin College of Engineering 2023
-Engineering with Computing
+Melody Chiu</br>
+Olin College of Engineering 2023</br>
+Engineering with Computing</br>
 
 Simrun Mutha
 Olin College of Engineering 2023
